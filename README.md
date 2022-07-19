@@ -1,6 +1,6 @@
-# Sorting_Visualizer
+Sorting Algorithm Visualizer
 
-A web application showcasing the inner workings of sorting algorithms.
+A web application showcasing the internal working of the following sorting algorithms mentioned below.
 
 Implemented algorithms:
 1) Bubble sort
@@ -22,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
+Take a look at live version: https://aryannn17.github.io/Sorting-Algorithm-Visualizer/
